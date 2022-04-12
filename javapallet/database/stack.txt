@@ -1,0 +1,4 @@
+DVD : 12
+PenDrive : 40
+Teclado : 34
+HD : 16
